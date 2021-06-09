@@ -1,5 +1,9 @@
 # Not My Cat ✧/ᐠ-ꞈ-ᐟ\
 
+Not My Cat is a responsive single-paged web app providing a platform for cat lovers to track, collect and play with cats in the real world. Our users can create a cat, with name, picture, attributes and their location stored using the Google Maps API. They can then play against randomised cats, to increase their win total and win crowns. Finally they can see where other cats have been spotted and go out to spot these neighbourhood felines.
+
+We created Not My Cat as part of our final project at Makers Academy, a 12 week web development bootcamp. We used the MERN stack (Mongo DB, Express, React, Node.js)
+
 ## implementation of the Express.js server
 
 - `npm init`
